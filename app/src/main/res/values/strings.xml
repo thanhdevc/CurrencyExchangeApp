@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string-array name="tiente">
+        <item>United States - Dollar</item>
+        <item>Vietnam - Dong</item>
+        <item>Japan - Yen</item>
+        <item>Korean - Won</item>
+        <item>Europe - Euro</item>
+    </string-array>
+</resources>
